@@ -14,3 +14,8 @@ textarea{
     resize:none;
 }
 
+
+#result-textarea{
+    height: 50px;
+}
+
