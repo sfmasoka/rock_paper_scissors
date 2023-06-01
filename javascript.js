@@ -120,7 +120,7 @@ function playRound(playerSelection, computerSelection){
         }
     else if (playerSelection==computerSelection)
     {
-        result_textarea.textContent = "You've chosen the same weapon! Choose weapon again!";
+        result_textarea.textContent = "You've both chosen the same weapon! Choose weapon again!";
         
     }
 
