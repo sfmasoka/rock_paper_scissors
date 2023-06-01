@@ -14,8 +14,16 @@ textarea{
     resize:none;
 }
 
+#computer-score-textarea,#player-score-textarea,#result-textarea{
+    height: 20px;
+    width: 200px;
+    background-color: white;
+    margin:auto;
+}
 
 #result-textarea{
-    height: 50px;
+    height: 60px;
+    padding: 8px;
+    margin-bottom: 32px;
 }
 
